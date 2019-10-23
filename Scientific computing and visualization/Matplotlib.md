@@ -4,7 +4,7 @@
 
 ​	分享一个Matplotlib画图查询表，转自[rougier/matplot-cheatsheet]( https://github.com/rougier/matplotlib-cheatsheet/blob/master/matplotlib-cheatsheet.png )
 
-![matplotlib](/pictures/matplotlib-cheatsheet.png)
+![matplotlib](/matplotlib-cheatsheet.png)
 
 ​	plot函数的一般调用格式：
 
@@ -47,7 +47,7 @@ pl.savefig("Figure_1.png",dpi=500)  #储存图片
 pl.show()
 ```
 
-<img src="/pictures/Figure_1.png" alt="Figure_1" style="zoom: 67%;" />
+<img src="/Figure_1.png" alt="Figure_1" style="zoom: 67%;" />
 
 2.绘制饼状图
 
@@ -88,7 +88,7 @@ ax.set_aspect('equal')
 plt.show()
 ```
 
-<img src="/pictures/Figure_2.png" alt="Figure_2" style="zoom: 100%;" />
+<img src="/Figure_2.png" alt="Figure_2" style="zoom: 100%;" />
 
 3.pyplot绘制多个图形
 
@@ -111,7 +111,7 @@ plt.legend()
 plt.show()
 ```
 
-<img src="/pictures/Figure_3.png" alt="Figure_3" style="zoom: 67%;" />
+<img src="/Figure_3.png" alt="Figure_3" style="zoom: 67%;" />
 
 ```python
 import numpy as np
@@ -144,7 +144,7 @@ plt.legend()
 plt.show()
 ```
 
-<img src="/pictures/Figure_3(2).png" alt="Figure_3(2)" style="zoom: 67%;" />
+<img src="/Figure_3(2).png" alt="Figure_3(2)" style="zoom: 67%;" />
 
 
 
