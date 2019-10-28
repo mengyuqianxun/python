@@ -12,7 +12,13 @@
 
 - ### Matplotlib案例
 
-- ## pandas数据分析
+- ### pandas数据分析
+
+## 其他
+
+* ### QR-Code
+
+
 
 ## [推荐书籍](https://github.com/mengyuqianxun/python/tree/master/books)
 
