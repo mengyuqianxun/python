@@ -1,4 +1,4 @@
-## 数据分析pandas
+## pandas数据分析
 
 ​		pandas(Python Data Analysis Library)是基于NumPy的数据分析模块，提供了大量标准数据模型和高效操作大型数据集所需要的工具。
 

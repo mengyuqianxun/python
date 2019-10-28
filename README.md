@@ -12,5 +12,13 @@
 
 - ### Matplotlib案例
 
-- ## 数据分析模块 pandas
+- ## pandas数据分析
+
+## [推荐书籍](https://github.com/mengyuqianxun/python/tree/master/books)
+
+* ### Python程序设计(第2版) 清华大学出版社
+
+* ### Python网络爬虫开发实践
+
+
 
